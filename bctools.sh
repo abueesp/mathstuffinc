@@ -1,4 +1,5 @@
 mkdir bctools
+cd bctools
 wget http://phodd.net/gnu-bc/code/array.bc
 wget http://phodd.net/gnu-bc/code/collatz.bc    
 wget http://phodd.net/gnu-bc/code/digits.bc    
