@@ -1,2 +1,2 @@
 # mathstuffinc
-Some mathematical routines in C and Python for learning and research to play, love and enjoy.
+Some mathematical routines in C and Python for playing, learning and research funny things
