@@ -1,6 +1,6 @@
 ##
 #All credits to: James Bradbury, Stephen Merity, Caiming Xiong, and Richard Socher. 2016.
-Quasi-Recurrent Neural Networks https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding
+Quasi-Recurrent Neural Networks https://arxiv.org/pdf/1611.01576v1.pdf https://einstein.ai/research/new-neural-network-building-block-allows-faster-and-more-accurate-text-understanding
 ##
 
 
