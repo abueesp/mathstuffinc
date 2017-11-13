@@ -2,7 +2,7 @@
 ## Series: Arithmetic Primes ##
 ## Author: Abueesp ##
 ## Date: Tue, May 23 2015 ##
-## GNU License ##
+## License: CC NC-BY-SA ##
 
 scriptname = 'Mersenne Prime Code'
 prompt = '> '
