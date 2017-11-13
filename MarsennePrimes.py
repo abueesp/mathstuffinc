@@ -1,7 +1,7 @@
 ## Mersenne Primes Code ##
 ## Series: Arithmetic Primes ##
 ## Author: Abueesp ##
-## Date: Tue, May 23 ##
+## Date: Tue, May 23 2015 ##
 ## GNU License ##
 
 scriptname = 'Mersenne Prime Code'
