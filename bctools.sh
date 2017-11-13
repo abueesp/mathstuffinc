@@ -1,3 +1,7 @@
+## Some tools for bc ##
+## Author: Abueesp ##
+## License: CC NC-BY-SA ##
+
 mkdir bctools
 cd bctools
 wget http://phodd.net/gnu-bc/code/array.bc
