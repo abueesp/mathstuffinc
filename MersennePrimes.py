@@ -7,7 +7,7 @@
 scriptname = 'Mersenne Prime Code'
 prompt = '> '
 
-print "Hello, I'm the %scriptname, a pretty dumb code for easy testing of Mersenne primes." % (scriptname)
+print "Hello, I'm the %scriptname, a pretty dumb code for easy testing of Mersenne primes (2^n-1)." % (scriptname)
 
 print "Introduce a prime number (remember, 1 and 0 are not prime numbers): "
 prime = int(raw_input(prompt))
