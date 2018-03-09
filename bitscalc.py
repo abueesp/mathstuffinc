@@ -30,4 +30,3 @@ possibilities=2**bits
 dualities=possibilities/2
 print "Which represent", possibilities, "possibilities, or", dualities, "dualities." 
 print "\n"
-exit()
