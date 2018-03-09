@@ -17,3 +17,4 @@ iterations = int(raw_input(prompt))
 for i in range(iterations):
 	prime=prime*(2**prime)-1
 	print prime
+exit()
