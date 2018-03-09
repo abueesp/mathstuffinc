@@ -7,7 +7,7 @@
 scriptname = 'Woodall Prime Code'
 prompt = '> '
 
-print "Hello, I'm the %scriptname, a pretty dumb code for easy testing of Woodall primes (n*2^n-1)." % (scriptname)
+print "Hello, I'm the %s, a pretty dumb code for easy testing of Woodall primes (n*2^n-1)." % (scriptname)
 
 print "Introduce a prime number (remember, 1 and 0 are not prime numbers): "
 prime = int(raw_input(prompt))
