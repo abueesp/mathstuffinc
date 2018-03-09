@@ -7,7 +7,7 @@
 scriptname = 'Generalization of Collatz Conjecture'
 prompt = '> '
 
-print ("Hello, I'm the %scriptname, a pretty dumb code for easy testing of numbers according to any specific model of the Collatz Conjecture." % (scriptname))
+print ("Hello, I'm the %s, a pretty dumb code for easy testing of numbers according to any specific model of the Collatz Conjecture." % (scriptname))
 
 print ("Introduce a number to test: ")
 num = int(raw_input(prompt))
