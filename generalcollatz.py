@@ -17,15 +17,14 @@ coefficent = int(raw_input(prompt))
 print ("Introduce the constant for ax+b: ")
 constant = int(raw_input(prompt))
 counter = 0
-print ("For %01d as initial number on n/2 if even and %01dx+%01d if odd") % (initialnum, coefficent, constant)
 while num > 1:
     if (num % 2) == 0:
         num = num / 2
 	print ("Step %02d, Result %02d") % (counter, num)
 	counter += 1
+	print ("The number %01d takes %01d steps on n/2, until we get one 1.") % (initialnum, counter, coefficent, constant)
     else:
         num = num*coefficent + constant
 	print ("Step %02d, Result %02d") % (counter, num)
     	counter += 1
-
-print ("The number %01d takes %01d steps on n/2 if even and %01dx+%01d if odd till get one 1.") % (initialnum, counter, coefficent, constant)
+	print ("The number %01d takes %01dx+%01d, until we get one 1.") % (initialnum, counter, coefficent, constant)
